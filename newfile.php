@@ -1,2 +1,2 @@
 <?php
-aaaa
+echo '1';
